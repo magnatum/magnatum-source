@@ -1,0 +1,2 @@
+debian/bin/magnatumd usr/bin
+src/magnatumd usr/lib/magnatum

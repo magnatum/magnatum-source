@@ -1,0 +1,9 @@
+Building Magnatum
+
+See doc/readme-qt.rst for instructions on building Magnatum QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Magnatum.
+
+See doc/build-*.txt for instructions on building magnatumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Magnatum.
